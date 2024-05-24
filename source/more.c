@@ -1,5 +1,4 @@
 #include "../header/main.h"
-#include <termios.h>
 
 #define PAGELEN 24
 #define LINELEN 512
